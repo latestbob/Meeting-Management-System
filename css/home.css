@@ -1,0 +1,53 @@
+body{
+    background:white;
+}
+#short{
+    border:1px solid white;
+    height: 500px;
+}
+
+
+#long{
+    min-height: 800px;
+    
+}
+#img{
+    width:100px;
+    border-radius:100px;
+}
+#img1{
+    width:100px;
+    border-radius:100px;
+}
+#myrow{
+    border:1.5px solid white;
+}
+.btn.btn-dark{
+background:lightgreen;
+
+font-size:20px;
+}
+
+.btn.btn-light{
+    
+    
+    font-size:20px;
+    }
+#card{
+    width:40%;
+    border-radius:200px;
+}
+#marquee{
+    font-size:30px;
+}
+hr{
+    border:1.5px solid white;
+}
+#card2{
+    width:30%;
+    border-radius:200px;
+}
+
+#events{
+    height:100px;
+}

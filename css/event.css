@@ -1,0 +1,37 @@
+#col{
+    border:1px solid white;
+    height: 470px;
+    
+    }
+    #light{
+        min-height: 900px;
+    }
+    
+    #img{
+        width:100px;
+        border-radius:100px;
+    }
+    
+    .btn-dark{
+        border:2px solid lightgray;
+        font-size:18px;
+    }
+
+    .btn-dark2{
+        border:2px solid lightgray;
+        font-size:20px;
+        background:rgb(21, 124, 21);
+    }
+
+    #events{
+        height:100px;
+    }
+    .img{
+        width:10%;
+    }
+    #mbody{
+        height:500px;
+    }
+
+   
+    

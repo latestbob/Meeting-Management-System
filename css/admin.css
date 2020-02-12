@@ -1,0 +1,32 @@
+#white{
+border:1px solid white;
+height: 470px;
+
+}
+
+#light{
+    min-height: 800px;
+}
+
+#img{
+    width:100px;
+    border-radius:100px;
+}
+
+.btn-dark{
+    border:2px solid lightgray;
+    font-size:18px;
+    
+}
+.table{
+    border:1px solid grey;
+}
+#event{
+    border:1px solid lightskyblue;
+    font-size:18px;
+}
+#profile{
+    width:100px;
+    height:100px;
+    border-radius:100px;
+}

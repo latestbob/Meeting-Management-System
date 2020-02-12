@@ -1,0 +1,18 @@
+#three{
+    border:1px solid white;
+    height: 470px;
+    
+    }
+    #light{
+        min-height: 600px;
+    }
+    
+    #img{
+        width:100px;
+        border-radius:100px;
+    }
+    
+    .btn-dark{
+        border:2px solid lightgray;
+        font-size:18px;
+    }
