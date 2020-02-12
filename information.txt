@@ -19,3 +19,6 @@ Members... Members can only be added by admin
 
 .. Can update login details
 ..Can send Message to Admins
+
+DATABASE..
+for simplicity... Create a database called cell.. and import the SQL FILE In this folder in that database
